@@ -19,7 +19,7 @@
       "bg": 106, 
       "temp": "absolute", 
       "snoozeBG": 108, 
-      "timestamp": "2016-03-27T07:15:37.000Z", 
+      "timestamp": "2016-03-27T07:17:36.000Z", 
       "rate": 0.45, 
       "reason": "COB: 50, Dev: 3, BGI: -0.2, Target: 115; 138-108 in range: no temp required; setting current basal of 0.43 as temp", 
       "eventualBG": 138, 
@@ -361,7 +361,7 @@
       "bg": 106, 
       "temp": "absolute", 
       "snoozeBG": 108, 
-      "timestamp": "2016-03-27T07:16:05.000Z", 
+      "timestamp": "2016-03-27T07:17:49.000Z", 
       "reason": "COB: 50, Dev: 3, BGI: -0.2, Target: 115; 138-108 in range: no temp required; setting current basal of 0.43 as temp", 
       "rate": 0.45, 
       "eventualBG": 138, 
@@ -375,12 +375,12 @@
       [
         "916.560", 
         5, 
-        -82
+        -66
       ], 
       [
         "916.580", 
-        4, 
-        -69
+        5, 
+        -62
       ], 
       [
         "916.600", 
@@ -389,47 +389,32 @@
       ], 
       [
         "916.620", 
-        4, 
-        -68
+        5, 
+        -61
       ], 
       [
         "916.640", 
-        4, 
-        -75
+        5, 
+        -60
       ], 
       [
         "916.660", 
-        4, 
-        -82
+        5, 
+        -61
       ], 
       [
         "916.680", 
-        4, 
-        -76
+        5, 
+        -62
       ], 
       [
         "916.700", 
-        4, 
-        -81
-      ], 
-      [
-        "916.720", 
-        2, 
-        -97
-      ], 
-      [
-        "916.820", 
-        1, 
-        -98
-      ], 
-      [
-        "916.860", 
-        1, 
-        -98
+        5, 
+        -71
       ]
     ], 
-    "setFreq": 916.6, 
-    "timestamp": "2016-03-27T07:13:22.000Z", 
+    "setFreq": 916.64, 
+    "timestamp": "2016-03-27T07:17:09.000Z", 
     "usedDefault": false
   }
 }
