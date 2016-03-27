@@ -7,7 +7,7 @@
   "bg": 114, 
   "temp": "absolute", 
   "snoozeBG": 138, 
-  "timestamp": "2016-03-27T00:28:05.046933", 
+  "timestamp": "2016-03-27T00:30:11.847315", 
   "rate": 1.0, 
   "reason": "COB: 50, Dev: 30, BGI: -0.68, Target: 115; Eventual BG 252>=120, temp 0.45<1.005U/hr", 
   "eventualBG": 252, 
