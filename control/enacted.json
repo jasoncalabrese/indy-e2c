@@ -1,17 +1,17 @@
 {
   "requested": {
     "duration": 30, 
-    "rate": 0.6, 
+    "rate": 1.35, 
     "temp": "absolute"
   }, 
-  "bg": 184, 
+  "bg": 186, 
   "temp": "absolute", 
-  "snoozeBG": 220, 
-  "timestamp": "2016-03-27T01:23:26.654671", 
-  "rate": 0.575, 
-  "reason": "COB: 10, Dev: 60, BGI: -2.28, Target: 115; Eventual BG 121>=120, 28m@0.745 = 0.348 > req 0.075+0.1U", 
-  "eventualBG": 121, 
+  "snoozeBG": 183, 
+  "timestamp": "2016-03-27T01:26:32.980161", 
+  "rate": 1.35, 
+  "reason": "COB: 10, Dev: 27, BGI: -2.48, Target: 115; Eventual BG 151>=120, temp 0.575<1.33U/hr", 
+  "eventualBG": 151, 
   "recieved": false, 
   "duration": 30, 
-  "tick": "+16"
+  "tick": "+2"
 }
