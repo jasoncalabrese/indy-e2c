@@ -1,1 +1,1 @@
-{"temp":"absolute","bg":103,"tick":-2,"eventualBG":93,"snoozeBG":93,"reason":"COB: 85, Dev: 5, BGI: 0.16, Target: 115; Eventual BG 93<110, setting -0.67U/hr","duration":30,"rate":0}
+{"temp":"absolute","bg":101,"tick":-2,"eventualBG":90,"snoozeBG":90,"reason":"COB: 50, Dev: 0, BGI: 0.04, Target: 115; Eventual BG 90<110, setting -0.82U/hr, but 28m left and 0 ~ req 0U/hr: no action required"}
