@@ -1,1 +1,1 @@
-{"temp":"absolute","bg":139,"tick":"+13","eventualBG":29,"snoozeBG":270,"reason":"COB: 24, Dev: 26, BGI: 1.64, Target: 115; Eventual BG 29<110, bolus snooze: eventual BG range 29-270; setting current basal of 0.57 as temp","duration":30,"rate":0.55}
+{"temp":"absolute","bg":139,"tick":"+13","eventualBG":53,"snoozeBG":270,"reason":"COB: 24, Dev: 31, BGI: 0.76, Target: 115; Eventual BG 53<110, but Delta +13 > Exp. Delta 5.5, temp 0.55 ~ req 0.57U/hr"}
