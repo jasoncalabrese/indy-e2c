@@ -4,14 +4,14 @@
     "rate": 0, 
     "temp": "absolute"
   }, 
-  "bg": 99, 
+  "bg": 92, 
   "temp": "absolute", 
-  "snoozeBG": 96, 
-  "timestamp": "2016-03-28T05:01:18.620708", 
+  "snoozeBG": 91, 
+  "timestamp": "2016-03-28T05:16:03.518547", 
   "rate": 0.0, 
-  "reason": "COB: 0, Dev: -14, BGI: 0.36, Target: 115; Eventual BG 96<110, setting -0.55U/hr", 
-  "eventualBG": 96, 
+  "reason": "COB: 0, Dev: -18, BGI: 0.68, Target: 115; Eventual BG 91<110, setting -0.8U/hr", 
+  "eventualBG": 91, 
   "recieved": false, 
   "duration": 30, 
-  "tick": "+1"
+  "tick": -3
 }
