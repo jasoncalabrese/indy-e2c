@@ -7,23 +7,14 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-03-29T07:33:42.000Z", 
+      "timestamp": "2016-03-29T07:36:44.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
     "reservoir": 169.7, 
-    "clock": "2016-03-29T00:32:48-07:00"
+    "clock": "2016-03-29T00:35:50-07:00"
   }, 
   "openaps": {
-    "suggested": {
-      "bg": 136, 
-      "temp": "absolute", 
-      "snoozeBG": 80, 
-      "timestamp": "2016-03-29T07:35:26.000Z", 
-      "reason": "COB: 0, Dev: 20, BGI: -9, Target: 115; Eventual BG 80<110, Snooze BG 80, setting -0.81U/hr, but 29m left and 0 ~ req 0U/hr: no action required", 
-      "eventualBG": 80, 
-      "tick": -5
-    }, 
     "iob": [
       {
         "netbasalinsulin": 3.25, 
@@ -369,55 +360,9 @@
     }
   }, 
   "mmtune": {
-    "scanDetails": [
-      [
-        "916.540", 
-        4, 
-        -76
-      ], 
-      [
-        "916.560", 
-        5, 
-        -58
-      ], 
-      [
-        "916.580", 
-        5, 
-        -56
-      ], 
-      [
-        "916.600", 
-        5, 
-        -55
-      ], 
-      [
-        "916.620", 
-        5, 
-        -55
-      ], 
-      [
-        "916.640", 
-        5, 
-        -55
-      ], 
-      [
-        "916.660", 
-        5, 
-        -56
-      ], 
-      [
-        "916.680", 
-        5, 
-        -58
-      ], 
-      [
-        "916.700", 
-        5, 
-        -70
-      ]
-    ], 
-    "setFreq": 916.64, 
-    "timestamp": "2016-03-29T07:33:23.000Z", 
-    "usedDefault": false
+    "scanDetails": [], 
+    "setFreq": 916.63, 
+    "timestamp": "2016-03-29T07:36:25.000Z", 
+    "usedDefault": true
   }
 }
