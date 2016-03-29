@@ -1,17 +1,17 @@
 {
   "requested": {
     "duration": 30, 
-    "rate": 0.55, 
+    "rate": 1.5, 
     "temp": "absolute"
   }, 
-  "bg": 139, 
+  "bg": 157, 
   "temp": "absolute", 
-  "snoozeBG": 270, 
-  "timestamp": "2016-03-28T07:05:38.270226", 
-  "rate": 0.55, 
-  "reason": "COB: 24, Dev: 26, BGI: 1.64, Target: 115; Eventual BG 29<110, bolus snooze: eventual BG range 29-270; setting current basal of 0.57 as temp", 
-  "eventualBG": 29, 
+  "snoozeBG": 146, 
+  "timestamp": "2016-03-28T20:31:19.060695", 
+  "rate": 1.5, 
+  "reason": "COB: 61, Dev: 81, BGI: -8.76, Target: 115; Eventual BG 185>=120, 27m@1.175 = 0.529 > req 0.3875+0.1U", 
+  "eventualBG": 185, 
   "recieved": false, 
   "duration": 30, 
-  "tick": "+13"
+  "tick": "+5"
 }
