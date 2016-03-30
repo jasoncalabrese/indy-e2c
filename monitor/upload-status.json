@@ -351,7 +351,24 @@
         "bolussnooze": 0, 
         "iob": -0.002
       }
-    ]
+    ], 
+    "enacted": {
+      "requested": {
+        "duration": 30, 
+        "rate": 0.45, 
+        "temp": "absolute"
+      }, 
+      "bg": 82, 
+      "temp": "absolute", 
+      "snoozeBG": 111, 
+      "timestamp": "2016-03-30T08:20:28.000Z", 
+      "reason": "COB: 0, Dev: -2, BGI: 1.04, Target: 115; Eventual BG 111>110 but Avg. Delta 0.00 < Exp. Delta 1.2; setting current basal of 0.43 as temp", 
+      "rate": 0.45, 
+      "eventualBG": 111, 
+      "recieved": true, 
+      "duration": 30, 
+      "tick": "+0"
+    }
   }, 
   "mmtune": {
     "scanDetails": [
