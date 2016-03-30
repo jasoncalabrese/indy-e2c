@@ -371,9 +371,25 @@
     }
   }, 
   "mmtune": {
-    "scanDetails": [], 
-    "setFreq": 916.63, 
-    "timestamp": "2016-03-30T22:59:35.000Z", 
-    "usedDefault": true
+    "scanDetails": [
+      [
+        "916.540", 
+        2, 
+        -98
+      ], 
+      [
+        "916.560", 
+        2, 
+        -96
+      ], 
+      [
+        "916.580", 
+        1, 
+        -98
+      ]
+    ], 
+    "setFreq": 916.56, 
+    "timestamp": "2016-03-30T23:18:49.000Z", 
+    "usedDefault": false
   }
 }
