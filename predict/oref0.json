@@ -1,1 +1,1 @@
-{"temp":"absolute","bg":133,"tick":"+0","eventualBG":124,"snoozeBG":124,"reason":"COB: 0, Dev: 5, BGI: -0.84, Target: 115; Eventual BG 124>=120, 28m@0.700 = 0.327 > req 0.1125+0.1U","duration":30,"rate":0.65}
+{"temp":"absolute","bg":132,"tick":-1,"eventualBG":125,"snoozeBG":125,"reason":"COB: 0, Dev: 11, BGI: -0.84, Target: 115; Eventual BG 125>=120, 29m@0.250 = 0.121 > req 0.01+0.1U","duration":30,"rate":0.4}
