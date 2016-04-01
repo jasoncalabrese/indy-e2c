@@ -7,32 +7,32 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-04-01T06:53:51.000Z", 
+      "timestamp": "2016-04-01T06:57:33.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
     "reservoir": 144.175, 
-    "clock": "2016-03-31T23:52:57-07:00"
+    "clock": "2016-03-31T23:56:40-07:00"
   }, 
   "openaps": {
     "suggested": {
-      "bg": 75, 
+      "bg": 78, 
       "temp": "absolute", 
-      "snoozeBG": 130, 
-      "timestamp": "2016-04-01T06:55:17.000Z", 
-      "reason": "BG 75<80, but 28m left and 0 ~ req 0U/hr: no action required", 
-      "eventualBG": 130, 
-      "mealAssist": "Off: Carbs: 0 Boluses: 0 Target: 115 Deviation: -17 BGI: 4.56", 
-      "tick": "+2"
+      "snoozeBG": 138, 
+      "timestamp": "2016-04-01T07:00:00.000Z", 
+      "reason": "BG 78<80, but 24m left and 0 ~ req 0U/hr: no action required", 
+      "eventualBG": 138, 
+      "mealAssist": "Off: Carbs: 0 Boluses: 0 Target: 115 Deviation: -13 BGI: 4.56", 
+      "tick": "+3"
     }, 
     "iob": {
-      "netbasalinsulin": -1.75, 
-      "timestamp": "2016-04-01T06:55:16.000Z", 
+      "netbasalinsulin": -1.8, 
+      "timestamp": "2016-04-01T07:00:00.000Z", 
       "activity": -0.0114, 
-      "basaliob": -0.905, 
+      "basaliob": -0.913, 
       "hightempinsulin": 0, 
       "bolussnooze": 0, 
-      "iob": -0.905
+      "iob": -0.913
     }, 
     "enacted": {
       "requested": {
@@ -58,7 +58,7 @@
       [
         "916.540", 
         5, 
-        -83
+        -82
       ], 
       [
         "916.560", 
@@ -68,17 +68,17 @@
       [
         "916.580", 
         5, 
-        -77
+        -76
       ], 
       [
         "916.600", 
         5, 
-        -77
+        -76
       ], 
       [
         "916.620", 
         5, 
-        -77
+        -76
       ], 
       [
         "916.640", 
@@ -96,8 +96,8 @@
         -82
       ]
     ], 
-    "setFreq": 916.64, 
-    "timestamp": "2016-04-01T06:53:32.000Z", 
+    "setFreq": 916.62, 
+    "timestamp": "2016-04-01T06:57:23.000Z", 
     "usedDefault": false
   }
 }
