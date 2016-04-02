@@ -7,32 +7,32 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-04-02T07:18:08.000Z", 
+      "timestamp": "2016-04-02T07:21:31.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
-    "reservoir": 118.9, 
-    "clock": "2016-04-02T00:16:40-07:00"
+    "reservoir": 118.85, 
+    "clock": "2016-04-02T00:20:37-07:00"
   }, 
   "openaps": {
     "suggested": {
       "bg": 201, 
       "temp": "absolute", 
-      "snoozeBG": 137, 
-      "timestamp": "2016-04-02T07:20:15.000Z", 
-      "reason": "Eventual BG 159>=120, temp 1.1 >~ req 1.074U/hr", 
-      "eventualBG": 159, 
-      "mealAssist": "On: 25%, 25%, Carbs: 0 Boluses: 0 Target: 111 Deviation: 22 BGI: -4.36", 
+      "snoozeBG": 138, 
+      "timestamp": "2016-04-02T07:23:00.000Z", 
+      "reason": "Eventual BG 160>=120, temp 1.1 >~ req 1.099U/hr", 
+      "eventualBG": 160, 
+      "mealAssist": "On: 25%, 25%, Carbs: 0 Boluses: 0 Target: 111 Deviation: 23 BGI: -4.56", 
       "tick": "+3"
     }, 
     "iob": {
       "netbasalinsulin": 1.45, 
-      "timestamp": "2016-04-02T07:20:15.000Z", 
-      "activity": 0.0109, 
-      "basaliob": 1.07, 
+      "timestamp": "2016-04-02T07:22:59.000Z", 
+      "activity": 0.0114, 
+      "basaliob": 1.075, 
       "hightempinsulin": 1.75, 
       "bolussnooze": 0, 
-      "iob": 1.07
+      "iob": 1.075
     }, 
     "enacted": {
       "requested": {
@@ -56,19 +56,14 @@
   "mmtune": {
     "scanDetails": [
       [
-        "916.540", 
-        5, 
-        -76
-      ], 
-      [
         "916.560", 
         5, 
-        -66
+        -67
       ], 
       [
         "916.580", 
         5, 
-        -63
+        -64
       ], 
       [
         "916.600", 
@@ -93,16 +88,16 @@
       [
         "916.680", 
         5, 
-        -67
+        -66
       ], 
       [
         "916.700", 
-        2, 
-        -91
+        5, 
+        -77
       ]
     ], 
     "setFreq": 916.64, 
-    "timestamp": "2016-04-02T07:17:23.000Z", 
+    "timestamp": "2016-04-02T07:21:11.000Z", 
     "usedDefault": false
   }
 }
