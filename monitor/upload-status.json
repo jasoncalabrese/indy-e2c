@@ -7,74 +7,84 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-04-02T15:34:08.000Z", 
+      "timestamp": "2016-04-02T15:40:57.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
-    "reservoir": 115.1, 
-    "clock": "2016-04-02T08:33:14-07:00"
+    "reservoir": 115.025, 
+    "clock": "2016-04-02T08:39:49-07:00"
   }, 
   "openaps": {
+    "suggested": {
+      "bg": 114, 
+      "temp": "absolute", 
+      "snoozeBG": 127, 
+      "timestamp": "2016-04-02T15:42:00.000Z", 
+      "reason": "Eventual BG 127>=120, temp 1 >~ req 0.885U/hr", 
+      "eventualBG": 127, 
+      "mealAssist": "On: 4%, 4%, Carbs: 0 Boluses: 0 Target: 114 Deviation: 2 BGI: 0.72", 
+      "tick": "+4"
+    }, 
     "iob": {
-      "netbasalinsulin": -0.1, 
-      "timestamp": "2016-04-02T15:35:09.000Z", 
-      "activity": -0.0015, 
-      "basaliob": -0.198, 
-      "hightempinsulin": 0.45, 
+      "netbasalinsulin": 0, 
+      "timestamp": "2016-04-02T15:41:59.000Z", 
+      "activity": -0.0018, 
+      "basaliob": -0.136, 
+      "hightempinsulin": 0.5, 
       "bolussnooze": 0, 
-      "iob": -0.198
+      "iob": -0.136
     }
   }, 
   "mmtune": {
     "scanDetails": [
       [
         "916.540", 
-        5, 
-        -84
+        4, 
+        -93
       ], 
       [
         "916.560", 
         5, 
-        -77
+        -84
       ], 
       [
         "916.580", 
         5, 
-        -75
+        -82
       ], 
       [
         "916.600", 
         5, 
-        -75
+        -81
       ], 
       [
         "916.620", 
         5, 
-        -74
+        -82
       ], 
       [
         "916.640", 
         5, 
-        -74
+        -81
       ], 
       [
         "916.660", 
         5, 
-        -75
+        -81
       ], 
       [
         "916.680", 
         5, 
-        -77
+        -83
       ], 
       [
         "916.700", 
         4, 
-        -88
+        -92
       ]
     ], 
-    "setFreq": 916.64, 
-    "timestamp": "2016-04-02T15:33:48.000Z", 
+    "setFreq": 916.66, 
+    "timestamp": "2016-04-02T15:40:23.000Z", 
     "usedDefault": false
   }
 }
