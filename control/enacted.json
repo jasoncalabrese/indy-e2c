@@ -1,18 +1,18 @@
 {
   "requested": {
     "duration": 30, 
-    "rate": 0.45, 
+    "rate": 0.75, 
     "temp": "absolute"
   }, 
-  "bg": 199, 
+  "bg": 203, 
   "temp": "absolute", 
-  "snoozeBG": 126, 
-  "timestamp": "2016-04-03T01:46:22.546173", 
-  "rate": 0.45, 
-  "reason": "Meal assist: 0g, 1U, bolus snooze: eventual BG range 101-126; setting current basal of 0.43 as temp", 
-  "eventualBG": 101, 
+  "snoozeBG": 134, 
+  "timestamp": "2016-04-03T01:50:43.817680", 
+  "rate": 0.75, 
+  "reason": "Eventual BG 125>=120, temp 0.45<0.732U/hr", 
+  "eventualBG": 125, 
   "recieved": false, 
   "duration": 30, 
-  "mealAssist": "On: 3%, 3%, Carbs: 0 Boluses: 1 Target: 115 Deviation: 17 BGI: -5.28", 
-  "tick": "+1"
+  "mealAssist": "On: 14%, 14%, Carbs: 0 Boluses: 1 Target: 113 Deviation: 21 BGI: -5.48", 
+  "tick": "+4"
 }
